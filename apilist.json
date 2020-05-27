@@ -1,0 +1,248 @@
+{
+    "trend": [
+      {
+        "pk": "1",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik1 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "artist": "Erik Official",
+        "time": "6:28",
+        "view": "18M views"
+      },
+      {
+        "pk": "2",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik2 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "2",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik2 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "3",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik3 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "4",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik4 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "artist": "Erik Official",
+        "time": "6:28",
+        "view": "18M views"
+      },
+      {
+        "pk": "5",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik5 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "6",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik6 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "7",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik7 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "8",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik8 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "artist": "Erik Official",
+        "time": "6:28",
+        "view": "18M views"
+      },
+      {
+        "pk": "9",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik9 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "10",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik10 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "10",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik10 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "12",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+        "artist": "Erik Official",
+        "time": "6:28",
+        "view": "18M views"
+      },
+      {
+        "pk": "11",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik11 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "12",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik12 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      },
+      {
+        "pk": "11",
+        "image": "https://i.ytimg.com/vi/iwGuiSnr2Qc/maxresdefault.jpg",
+        "title": "Erik11 - 'Em không sai, chúng ta sai'(Official MV)",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+        "artist": "Erik Official",
+        "time": "6:28"
+      }
+    ],
+    "popular": [
+      {
+        "pk": "1",
+        "image": "https://i.ytimg.com/vi/ayJY9ieBuEU/maxresdefault.jpg",
+        "title":
+            "Không thể cùng nhau suốt kiếp - Hòa Minzy (ft.Mr.Siro)|Official Music Video",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+        "artist": "Hòa Minzy",
+        "time": "8:57"
+      },
+      {
+        "pk": "3",
+        "image": "https://i.ytimg.com/vi/ayJY9ieBuEU/maxresdefault.jpg",
+        "title":
+            "Không thể cùng nhau suốt kiếp - Hòa Minzy (ft.Mr.Siro)|Official Music Video",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+        "artist": "Hòa Minzy",
+        "time": "8:57"
+      },
+      {
+        "pk": "3",
+        "image": "https://i.ytimg.com/vi/ayJY9ieBuEU/maxresdefault.jpg",
+        "title":
+            "Không thể cùng nhau suốt kiếp - Hòa Minzy (ft.Mr.Siro)|Official Music Video",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "artist": "Hòa Minzy",
+        "time": "8:57"
+      },
+      {
+        "pk": "4",
+        "image": "https://i.ytimg.com/vi/ayJY9ieBuEU/maxresdefault.jpg",
+        "title":
+            "Không thể cùng nhau suốt kiếp - Hòa Minzy (ft.Mr.Siro)|Official Music Video",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+        "artist": "Hòa Minzy",
+        "time": "8:57"
+      }
+    ],
+    "artists": [
+      {
+        "pk": "1",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "2",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "3",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "4",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "5",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "6",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "7",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "8",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "9",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "10",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "11",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+      {
+        "pk": "12",
+        "image":
+            "https://upload.wikimedia.org/wikipedia/commons/8/82/Image_circle.jpg",
+        "artist": "Hòa Minzy",
+      },
+    ]
+  }
