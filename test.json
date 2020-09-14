@@ -13,7 +13,7 @@
     "id": "com.killerclown.creepy.callprank.fakecall.fakevideocall",
     "is_exists": true,
     "is_show_more": true,
-    "is_show_ads": false,
+    "is_show_ads": true,
     "isLoading":false,
     "isShowAds":false
   },
